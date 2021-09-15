@@ -1,0 +1,9 @@
+-Para ejecutar el código deben verificar que se tenga disco D en la máquina
+Si no hay Disco D o la carpeta específicada, no genera el archivo CSV
+-No se sigue ningún patrón de diseño para mayor facilidad
+-Se cumple con herencia y polimorfirsmo
+
+-Herramienta empleada: Netbeans
+-No requiere user ni password
+-Lenguaje: Java
+-Author: Sebastianbedoya25@gmail.com
